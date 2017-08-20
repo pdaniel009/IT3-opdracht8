@@ -121,5 +121,10 @@ li:hover img {
 	.sketchfab {
 		width: 19%;
 	}
+	
+	li {
+	width: 25%;
+	margin-top: -10px;
+}
 
 }
